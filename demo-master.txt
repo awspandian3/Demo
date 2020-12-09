@@ -3,3 +3,4 @@ this is first line added in the demo file
 second line added
 
 git init
+git add
