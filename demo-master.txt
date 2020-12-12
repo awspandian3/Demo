@@ -26,3 +26,5 @@ git pull vs merge
 git stash pop
 
 git stash apply
+
+git squash
