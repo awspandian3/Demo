@@ -34,3 +34,5 @@ git squash
 tag
 
 this line is add to check the fetch command
+
+this line to to check the pull command
