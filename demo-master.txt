@@ -7,7 +7,22 @@ git init
 git add
 git commit -m
 git push
-=======
+
 
 this  is using to check the command stash
 
+
+
+git stash
+git squash
+git tag
+git .ignore
+git cherry-pick
+git fetch
+git pull vs merge
+>>>>>>> Stashed changes
+
+
+git stash pop
+
+git stash apply
