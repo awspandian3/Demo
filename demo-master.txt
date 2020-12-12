@@ -32,3 +32,5 @@ git squash
 .gitignore
 
 tag
+
+this line is add to check the fetch command
