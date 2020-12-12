@@ -2,7 +2,12 @@ this is first line added in the demo file
 
 second line added
 
+
 git init
 git add
 git commit -m
 git push
+=======
+
+this  is using to check the command stash
+
